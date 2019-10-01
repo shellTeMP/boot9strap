@@ -1,0 +1,13 @@
+out
+build
+stage2/arm9/build
+stage2/arm9/itcm_stub/build
+stage2/arm9/out
+stage2/arm11/build
+stage2/arm11/out
+*.bin
+*.firm
+*.o
+*.elf
+*.d
+.DS_Store
